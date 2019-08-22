@@ -1,0 +1,39 @@
+21.1 Neither party will be liable whether in contract, tort (including negligence) or otherwise for
+any indirect or consequential loss, damage, cost or expense of any kind whatsoever and
+howsoever caused or any loss of production, loss of or corruption to data, loss of profits or
+of contracts, loss of operation time and loss of goodwill or anticipated savings or wasted
+management or staff time even if that party has been advised of their possibility.
+21.2 Each Party shall only be liable for direct damages related to the performance of their
+obligations under the present Agreement. The total aggregate liability of either Party
+however that liability arises, under or in connection with this Agreement shall not exceed
+the amount paid by Client to Capgemini during the 12 months period immediately
+preceding the original claim. Each Party agrees to use all reasonable endeavours to mitigate
+any losses which it may suffer under or in connection with this Agreement (including in
+relation to any losses, costs, damages and expenses covered by an indemnity) and any
+amounts which it seeks from the other Party in respect of any liability.
+21.3 The liability of a Party however that liability arises will be reduced proportionately to the
+extent that any act or omission of the other Party and/or its Personnel contributed to the
+loss and in particular Capgemini and its Personnel will not be responsible for or liable to
+the Client or its Personnel for any liability howsoever arising to the extent caused by the
+occurrence of a Relief Event.
+21.4 Subject to the liability cap of Clause 21.2 and based on the Service Users fault or
+negligence Client shall be fully responsible for all Service Users and will indemnify
+Capgemini against all claims made by the Service Users against Capgemini.
+21.5 Despite any provision to the contrary, nothing in this Clause 21 shall exclude or restrict the
+Client’s obligation to pay the Charges or sums due to Capgemini under this Agreement.
+21.6 The Parties agree that their express obligations and warranties in this Agreement are their
+only respective obligations. For clarity purposes, both Parties exclude any and all other
+express or implied warranties (including legal warranties).
+21.7 Each Party will be discharged of liability in respect of any claim arising under or in
+connection with this Agreement, whether in contract or outside contract, unless formal
+commencement of legal proceedings is brought within 2 years after the other Party
+becomes
+aware (or should reasonably have become aware) of the facts that constitute the cause of action,
+provided that neither Party will be liable by virtue of this Clause 21 for any longer period than would
+otherwise apply by operation of law.
+21.8 Client and Capgemini acknowledge and agree that the allocation of risk and liability contained in this
+Agreement is reasonable in all the circumstances, having regard to all relevant factors including the
+nature of the Services, the negotiated Charges and the ability of the Parties to rely on their own
+respective insurance arrangements and other resources to bear or recover any loss or damage incurred
+for which the other Party is not liable.
+21.9 This Clause 21 survives termination of this Agreement for any reason.

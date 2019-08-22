@@ -1,0 +1,35 @@
+(a) Service Recipient acknowledges that Service Provider is not in the business of providing the Services and that the Services being
+provided pursuant to this Agreement are provided as an accommodation to Service Recipient. Other than in the event of Service Provider’s gross
+negligence or willful misconduct, Service Provider will not be liable for any error or omission in rendering Services under this Agreement, or for
+any defect in Services so rendered; provided that if there is a substantial error in any of the Services, Service Provider shall use commercially
+reasonable efforts to attempt to correct the error, or if Service Provider is unable to so correct such error, to provide an adjustment to the Monthly
+Cost for such Service in reasonable proportion to that which the error bears to the Service provided for such month, which adjustment may,
+pursuant to Section 4(g), include any reasonable out-of-pocket costs and expenses incurred by Service Recipient in retaining a Third Party Provider
+to provide such Service or in providing such service itself. Other than in the event of Service Recipient’s gross negligence or willful misconduct,
+and other than for the Monthly Costs, severance and retention costs owed under Section 2(a)(ii) and other amounts expressly owed hereunder,
+Service Recipient will not be liable for any damages caused in connection with the Services provided under this Agreement.
+12
+☃
+(b) Service Provider shall have no responsibility to maintain insurance to cover any loss or damage to goods or equipment to which
+Service Recipient has title that are in the possession or control of Service Provider, its Subsidiaries or a Third Party Provider as a result of this
+Agreement and the risk of loss with respect to such goods or equipment shall be solely with Service Recipient. Service Recipient shall obtain from
+its insurance company a waiver of subrogation on behalf of Service Provider and its Subsidiaries effective as of Distribution Date; provided, that
+Service Recipient shall only be obligated to obtain such waiver if it is aware that any such goods or equipment is in the possession or control of
+Service Provider, its Subsidiaries or a Third Party Provider. Service Recipient shall have no responsibility to maintain insurance to cover any loss or
+damage to goods or equipment to which Service Provider has title that are in the possession or control of Service Recipient or its Subsidiaries as a
+result of this Agreement and the risk of loss with respect to such goods or equipment shall be solely with Service Provider. Service Provider shall
+obtain from its insurance company a waiver of subrogation on behalf of Service Recipient and its Subsidiaries effective as of the Distribution Date;
+provided, that Service Provider shall only be obligated to obtain such waiver if it is aware that any such goods or equipment is in the possession or
+control of Service Recipient or its Subsidiaries.
+☃
+(c) NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESSED OR IMPLIED (INCLUDING WARRANTIES OF NON-
+INFRINGEMENT, MERCHANTABILITY, ACCURACY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR CONFORMITY TO
+ANY REPRESENTATION OR DESCRIPTION), ARE MADE BY SERVICE PROVIDER OR ANY OF ITS AFFILIATES WITH RESPECT TO THE
+PROVISION OF SERVICES UNDER THIS AGREEMENT AND, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH
+REPRESENTATIONS OR WARRANTIES ARE HEREBY WAIVED AND DISCLAIMED. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING,
+UNDER NO CIRCUMSTANCES, INCLUDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY REMEDY, SHALL SERVICE PROVIDER BE
+LIABLE FOR, INCLUDING BUT NOT LIMITED TO, ANY LOST PROFITS, REMITTANCES, COLLECTIONS, INVOICES, PENALTIES, INTEREST OR
+SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES CAUSE BY THE PERFORMANCE OF, ANY DELAY IN THE PERFORMING,
+FAILURE TO PERFORM OR DEFECTS IN THE PERFORMANCE OF, THE SERVICES CONTEMPLATED TO BE PERFORMED BY SERVICE
+PROVIDER PURSUANT TO THIS AGREEMENT, REGARDLESS OF WHETHER A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.

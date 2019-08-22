@@ -1,0 +1,63 @@
+25.1. Neither Party shall be liable for indirect or consequential damages such as loss of
+profits, loss of anticipated savings, or loss of unforeseeable damages, except in
+case of damages to tangible assets, and/or infringement of Intellectual Property
+Rights under Clause 23 (Indemnification) which are subject to the liability caps
+defined in Clause 25.3 below.
+☃
+25.2. The limitation and exclusion of liability set forth in this Clause 25 shall not apply in
+the event of: (i) intention ( Vorsatz) or gross negligence ( grobe Fahrlässigkeit),
+(ii) any breach of Clause 26 (Confidentiality) and 27 (Data Protection), (iii) claims
+for death or personal injury, and (iv) product liability claims according to the
+German Product Liability Act (Produkthaftungsgesetz – ProdHaftG).
+☃
+25.3. In case of ordinary negligence (einfache Fahrlässigkeit), a Party shall be liable for
+all damage claims ( Schadensersatzansprüche) and expenses reimbursement
+claims ( Aufwendungsersatzansprüche)
+(i) under this MSA to a maximum that equals of two hundred percent (200 %) of
+the sum of Service Fees paid under this MSA for the ERP ADM Services
+(including Developments, under an CR Implementation Form, but excluding
+Projects under an SoW) in the twelve (12) months preceding the damaging
+event;
+(ii) under any SoW limited to a maximum of hundred percent (100 %) of the order
+value of the respective SoW, unless otherwise agreed in the respective SoW.
+With respect to (i) above, during the first twelve (12) months of this MSA the
+amount of the preceding twelve (12) months is deemed to be the foreseen Service
+Fees for the first twelve (12) months as defined in Exhibit A of Schedule 8 .
+☃
+25.4. In case of loss or corruption of software or data in a productive system the Supplier
+shall be liable, only, if Client has ensured a proper data backup so that this data
+can be repaired or restored with reasonable efforts, whereby the liability is limited
+to the expenses incurred for restoration of such data.
+☃
+25.5. If, at any time, the total aggregate liability of Supplier for claims asserted by Client
+under this MSA due to one or more damage events amounts to seventy five
+percent (75%) or more of the liability cap specified in Clause 25.3(i) Supplier shall
+have the right to confirm to Client in writing within ten (10) Business Days after
+being requested by Client in writing to give such confirmation, that the available
+liability amounts are restored to the amounts as specified in Clause 25.3(i) for the
+benefit of Client. If the Supplier refuses to issue that confirmation within this
+deadline, then Client may in a timely manner (not longer than four (4) weeks)
+terminate the MSA serving at least a six (6) months’ written notice to Supplier.
+However, Client’s right to terminate for good cause, in particular to terminate for
+good cause due to the specific circumstances of the liability event, remains
+unaffected by this Clause.
+☃
+25.6. There shall be no joint and several liabilities between the respective Party and its
+Affiliates.
+☃
+25.7. Any damage claims and expenses reimbursement claims, regardless of form,
+arising out of or in connection with this MSA or any SoW may not be brought by
+either Party more than two (2) years after the claim has accrued.
+☃
+25.8. The limitations of liability shall also apply to the benefit of the Parties’ employees,
+directors, Affiliates and Subcontractors.
+☃
+25.9. Either Party shall use reasonable efforts to mitigate damages or other losses.
+☃
+25.10. A Party alleging that its liability is limited according to this Clause 25 shall be
+responsible for proving the applicability of such limitation.
+☃
+25.11. The Supplier is obliged to procure and maintain during the Term a public liability
+insurance ( Betriebshaftpflichtversicherung) and will provide a copy of the
+insurance certificate upon request to Client. The amount of coverage will be at all
+times at least an amount equal to five million Euros (EUR 5,000,000).

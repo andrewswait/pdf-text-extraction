@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="9" family="Times" color="#000000"/>
+	<fontspec id="1" size="9" family="Times" color="#0000ee"/>
+	<fontspec id="2" size="9" family="Times" color="#000000"/>
+	<fontspec id="3" size="8" family="Times" color="#000000"/>
+	<fontspec id="4" size="6" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#0000ee"/>
+	<fontspec id="6" size="3" family="Times" color="#000000"/>
+	<fontspec id="7" size="4" family="Times" color="#000000"/>
+<text top="273" left="56" width="785" height="13" font="2">NOW,	THEREFORE,	in	consideration	of	the	mutual	covenants	set	forth	herein	and	other	good	and	valuable	consideration,	the	receipt	and</text>
+<text top="286" left="22" width="519" height="13" font="2">sufficiency	of	which	is	hereby	acknowledged,	Client	and	Service	Provider	agree	as	follows:</text>
+<text top="315" left="352" width="189" height="13" font="0"><b>Section	1	​	Definition	of	Terms</b></text>
+<text top="338" left="22" width="571" height="13" font="2">As	used	in	this	Agreement,	the	following	capitalized	terms	shall	have	the	meanings	set	forth	herein:</text>
+<text top="352" left="22" width="2" height="6" font="6">	</text>
+<text top="365" left="22" width="3" height="10" font="4">	</text>
+<text top="357" left="56" width="15" height="13" font="2">(a)</text>
+<text top="357" left="89" width="753" height="13" font="2">“Client	Information”	shall	be	all	Client	data	and	information	entered	into	or	held	by	Marriott	for	purposes	of	entry	into	the	Marrpay</text>
+<text top="370" left="89" width="290" height="13" font="2">Software,	or	generated	by	the	Marrpay 	Software.</text>
+<text top="384" left="22" width="2" height="6" font="6">	</text>
+<text top="390" left="22" width="3" height="10" font="4">	</text>
+<text top="389" left="56" width="16" height="13" font="2">(b)</text>
+<text top="389" left="89" width="318" height="13" font="2">“Default”	shall	have	the	meaning	specified	in	Section	9.</text>
+<text top="403" left="22" width="2" height="6" font="6">	</text>
+<text top="416" left="22" width="3" height="10" font="4">	</text>
+<text top="408" left="56" width="15" height="13" font="2">(c)</text>
+<text top="408" left="89" width="764" height="13" font="2">“LMS”	shall	mean	the	labor	management	scheduling	application	that	interfaces	with	Marrpay 	for	processing	of	time	and	attendance</text>
+<text top="421" left="89" width="546" height="13" font="2">records,	as	such	application	may	be	updated	or	replaced	by	Service	Provider	from	time	to	time.</text>
+<text top="434" left="22" width="3" height="10" font="4">	</text>
+<text top="445" left="437" width="19" height="13" font="2">I	​	1</text>
+<text top="359" left="842" width="7" height="8" font="7">®</text>
+<text top="372" left="313" width="7" height="8" font="7">®</text>
+<text top="410" left="626" width="7" height="8" font="7">®</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="38" left="22" width="3" height="10" font="4">	</text>
+<text top="24" left="56" width="16" height="13" font="2">(d)</text>
+<text top="24" left="89" width="748" height="13" font="2">“Marrpay	On-Line	Service ”	shall	mean	those	mainframe-computer-based	features	of	the	Marrpay 	Software	which	permit	remote</text>
+<text top="37" left="89" width="760" height="13" font="2">entry	and	retrieval	of	information.	It	includes,	among	other	things,	information	retrieval,	file	maintenance,	time	data	entry	processes</text>
+<text top="50" left="89" width="181" height="13" font="2">and	Report	Writer	functionality.</text>
+<text top="64" left="22" width="2" height="6" font="6">	</text>
+<text top="77" left="22" width="3" height="10" font="4">	</text>
+<text top="69" left="56" width="15" height="13" font="2">(e)</text>
+<text top="69" left="89" width="736" height="13" font="2">“Marrpay 	Software”	shall	mean	the	mainframe-computer-based	software	system	which	performs	payroll	and	employee	services</text>
+<text top="82" left="89" width="698" height="13" font="2">processing	in	order	to,	among	other	things,	issue	payroll	payments,	payroll	registers,	Forms	W-2,	and	information	reports.</text>
+<text top="96" left="22" width="2" height="6" font="6">	</text>
+<text top="102" left="22" width="3" height="10" font="4">	</text>
+<text top="101" left="56" width="13" height="13" font="2">(f)</text>
+<text top="101" left="89" width="527" height="13" font="2">“MBS”	shall	mean	the	Marriott	Business	Services	department	of	Marriott	International,	Inc.</text>
+<text top="115" left="22" width="2" height="6" font="6">	</text>
+<text top="128" left="22" width="3" height="10" font="4">	</text>
+</page>
+</pdf2xml>
