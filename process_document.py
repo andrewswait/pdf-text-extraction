@@ -20,4 +20,5 @@ if __name__ == '__main__':
     section = Section(document, SectionTypes.EntireDocument, content_idx=Interval(0, len(document.tokens) - 1))
 
     for i, item in enumerate(section.sentences):
-        print('{}: {}'.format(i, item.text))
+        text = item.text.encode('utf-8').strip()
+        print('{}: {}'.format(i, text))
